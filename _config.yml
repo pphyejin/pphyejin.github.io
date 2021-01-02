@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+title: Hyejin
+description: hyejin
 author: Shangzhi Huang
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: phyejin9@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -36,8 +36,6 @@ logo: logo.png
 social:
   name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/pphyejin
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
